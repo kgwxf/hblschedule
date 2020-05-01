@@ -1,1 +1,14 @@
+body {
+  background-color: red;
+  font-family: helvetica;
+}
 
+
+
+.content-table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9cm;
+  min-width: 400px;
+  
+}
