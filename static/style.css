@@ -6,6 +6,10 @@ html {
   font-family: courier;
 }
 
+body. photo1 {
+ background-image: linear-gradient(#a1c4fd, #c2e9fb);
+  font-family: courier;
+}
 .content-table {
   border-collapse: collapse;
   background: #ffffff;
